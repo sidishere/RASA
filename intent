@@ -1,0 +1,6 @@
+{ 
+"intent":"purchase_racket", 
+"entities":{                    
+"location":"Delhi"                   
+}
+}
